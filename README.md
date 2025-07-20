@@ -27,6 +27,7 @@
 ## Write script for automatic generate PDF
 
 - Create script.sh:
+      [script.sh](https://github.com/radd254/markdown2pdf/blob/main/script.sh)
 
 - Assign privilege
 
